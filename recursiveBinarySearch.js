@@ -1,3 +1,8 @@
+/* 
+Problem: Given a sorted array of 'n' elements and a target elements
+  't', find the index of 't' in the array. Return -1 if the element     is not found
+*/
+
 function recursiveBinarySearch(arr, target){
   
 }
