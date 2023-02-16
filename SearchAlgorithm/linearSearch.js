@@ -7,6 +7,8 @@ function linearSearch(arr, target) {
   return -1
 }
 
+// Big-O = O(n^2)
+
 console.log(linearSearch([-5, 3, 5, 10, 20], 10))
 console.log(linearSearch([-5, 3, 5, 10, 20], -5))
 console.log(linearSearch([-5, 3, 5, 10, 20], 21))
